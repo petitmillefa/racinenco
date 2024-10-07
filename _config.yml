@@ -1,7 +1,7 @@
 title: "Racine n'CO"
 description: "Le site des Racines"
 baseurl: "" # Laisser vide pour GitHub Pages
-url: "https://[votre-username].github.io"
+url: "https://https://petitmillefa.github.io"
 theme: minima # Optionnel, mais vous pouvez personnaliser avec un thème
 markdown: kramdown
 
