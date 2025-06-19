@@ -1,4 +1,4 @@
-racinenco/
+```racinenco/
 │
 ├── _config.yml                # Fichier de configuration du site
 ├── index.md                   # Page d'accueil de l'association (peut être en HTML ou Markdown)
@@ -30,3 +30,4 @@ racinenco/
 │   └── 2024-03-01-first-news.md  # Exemple de post actualité (automatique si nécessaire)
 │
 └── README.md                  # Documentation du projet
+```
